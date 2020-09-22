@@ -31,6 +31,9 @@ There are overloads for all the common out of the box FMX controls, with advance
 
 CodeBindings allows you to use Malcolm Groves's Fluent.LiveBindings wrapper via CodeBindings. This allows you to create Fluent LiveBindings but without requiring you to place a TBindingList component on your form.
 
+At this stage you will need to use my fork of Malcolm's library.
+https://github.com/LachG/FluentLiveBindings
+
 To use this integration add a second unit to your uses clause.
 
 ```delphi
